@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @yassinSahli
-- 👀 I’m a Cyber security enthusiast 
-- 🌱 I’m currently an IT Student Specialized In Network Security
-- 📫 How to reach me : Linkedin Direct Link : https://www.linkedin.com/in/yassine-s/
-
-
-
-
-<!---
-yassinSahli/yassinSahli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a Cyber security enthusiast [ Top 1% on TryHackMe ]
+- 🌱 I’m currently a Cybersecurity Engineering Student
+- ⛑️ Im a Red Hat Certified System Administrator
+- 🧢 Im a Blue Team Junior Analyst
+- 📫 How to reach me -> Linkedin Direct Link : https://www.linkedin.com/in/yassine-s/
+- 📫 How to reach me -> Personal Website Link : https://yassine-sahli.netlify.app/
