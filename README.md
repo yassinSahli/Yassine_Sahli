@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yassinSahli
-- 👀 I’m a Cyber security enthusiast <b>[ <a href="https://tryhackme.com/p/KaiiZen"> Top 1% on TryHackMe </a> ]
-- 🔭 I’m currently a Cybersecurity Engineering Student
+- 👋 Hi, I’m @Yassine_Sahli
+- 👀 I’m a Cyber Security Enthusiast <b>[ <a href="https://tryhackme.com/p/KaiiZen"> Top 1% on TryHackMe </a> ]
 - ⛑️ Im a Red Hat Certified System Administrator
 - 🧢 Im a Blue Team Junior Analyst
+- 🔭 I’m currently a Cybersecurity Engineering Student
 - 📫 Personal Website Link : [https://yassine-sahli.netlify.app/](https://yassine-sahli.web.app/)
 
 <h3 align="left">Connect with me:</h3>
