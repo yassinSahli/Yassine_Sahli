@@ -3,8 +3,7 @@
 - 🌱 I’m currently a Cybersecurity Engineering Student
 - ⛑️ Im a Red Hat Certified System Administrator
 - 🧢 Im a Blue Team Junior Analyst
-- 📫 How to reach me -> Linkedin Direct Link : https://www.linkedin.com/in/yassine-s/
-- 📫 How to reach me -> Personal Website Link : https://yassine-sahli.netlify.app/
+- 📫 Personal Website Link : [https://yassine-sahli.netlify.app/](https://yassine-sahli.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
