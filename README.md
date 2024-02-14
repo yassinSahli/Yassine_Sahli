@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Yassine_Sahli
-- 👀 I’m a Cyber Security Enthusiast <b>[ <a href="https://tryhackme.com/p/KaiiZen">Ranked #15 on Tryhackme in Tunisia of All Time</a>]
-- ⛑️ Im a Red Hat Certified System Administrator [ <a href="https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url">RHCSA</a> ]
-- 🧢 Im a Blue Team Junior Analyst [ <a href="https://elearning.securityblue.team/home/certificate/298291759">BTJA</a> ]
-- 🌱 15 Cisco Credentials [ <a href="https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1">Credly Direct Link</a> ]
-- 🔭๋࣭ IBM Cybersecurity Analyst   [ <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ">BTJA</a> ]
+- 👀 I’m a Cyber Security Enthusiast <b>[<a href="https://tryhackme.com/p/KaiiZen">Ranked #15 on Tryhackme in Tunisia of All Time</a>]
+- ⛑️ Im a Red Hat Certified System Administrator [<a href="https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url">RHCSA</a>]
+- 🧢 Im a Blue Team Junior Analyst [<a href="https://elearning.securityblue.team/home/certificate/298291759">BTJA</a>]
+- 🌱 15 Cisco Credentials [<a href="https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1">Credly Direct Link</a>]
+- 🔭๋࣭ IBM Cybersecurity Analyst   [<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ">IBM Cybersecurity Analyst Certificate</a>]
 - 🔭 I’m currently a Cybersecurity Engineering Student
 - 📫 Contact me on my LinkedIn account
 
