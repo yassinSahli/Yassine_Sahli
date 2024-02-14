@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yassine_Sahli
 - 👀 I’m a Cyber Security Enthusiast <b>[ <a href="https://tryhackme.com/p/KaiiZen">Ranked #15 on Tryhackme in Tunisia of All Time</a>]
 - ⛑️ Im a Red Hat Certified System Administrator [ <a href="https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url"> RHCSA </a> ]
-- 🧢 Im a Blue Team Junior Analyst
+- 🧢 Im a Blue Team Junior Analyst [ <a href="https://elearning.securityblue.team/home/certificate/298291759"> BTJA </a> ]
 - 🔭 I’m currently a Cybersecurity Engineering Student
 - 📫 Personal Website Link : [https://yassine-sahli.netlify.app/](https://yassine-sahli.web.app/)
 
