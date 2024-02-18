@@ -40,7 +40,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinsahli&show_icons=true&locale=en&layout=compact" alt="yassinsahli" /></p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/KaiiZen.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1170584"></script>
 
 <br>
   <div id="badges" align="center">
